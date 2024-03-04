@@ -9,12 +9,12 @@ a -> Y.b
 
 ### singer
 
-| **<u>singerName</u>**: varchar(50) | **firstName**: varchar(50) | **lastName**: varchar(50) | **age**: int |
-| --- | --- | --- | --- |
-| Alina | Darcy | Boles | 32 |
-| Mysterio | Jessie | Chancey | 23 |
-| Rainbow | Sarah | Derrick | 47 |
-| Luna | Emily | Seibold | 31 |
+| **<ins>singerName</ins>**: varchar(50) | **firstName**: varchar(50) | **lastName**: varchar(50) | **age**: int |
+|----------------------------------------| --- | --- | --- |
+| Alina                                  | Darcy | Boles | 32 |
+| Mysterio                               | Jessie | Chancey | 23 |
+| Rainbow                                | Sarah | Derrick | 47 |
+| Luna                                   | Emily | Seibold | 31 |
 
 
 ### label
